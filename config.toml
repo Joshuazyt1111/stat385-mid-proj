@@ -149,7 +149,7 @@ disableLanguages        = [""]
     identifier        = "resume"
     url               = "/resume/"
     pre               = "<i class='far fa-id-card'></i>"
-    weight            = 6
+    weight            = 7
   
 
 [Languages]
