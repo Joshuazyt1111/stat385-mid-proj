@@ -4,7 +4,7 @@ title                   = "Yutong (Joshua) Zhao"
 theme = "hugo-future-imperfect-slim"
 preserveTaxonomyNames   = true
 paginate                = 3
-disqusShortname         = ""
+disqusShortname         = "" #![](/STAT 385 1/config_files/Yutong (Joshua) Zhao.pdf)
 googleAnalytics         = ""
 pluralizeListTitles     = false
 disableLanguages        = [""]
@@ -60,7 +60,7 @@ disableLanguages        = [""]
   # required for proper functionality. HTML is supported within the params.
   [params.intro]
     header                = "Yutong (Joshua) Zhao"
-    paragraph             = "Joshua's Professional Website"
+    paragraph             = "Resume: " #https://drive.google.com/file/d/1qiaz8pqwyi-iCDguo0AsvCHrJUtbQGCr/view?usp=sharing"
     rssIntro              = true
     socialIntro           = true
 
