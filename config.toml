@@ -147,7 +147,7 @@ disableLanguages        = [""]
   [[menu.main]]
     name              = "Resume"
     identifier        = "resume"
-    url               = "/resume/Yutong (Joshua) Zhao.pdf"
+    url               = "/resume/"
     pre               = "<i class='far fa-id-card'></i>"
     weight            = 7
   
