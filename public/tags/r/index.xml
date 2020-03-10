@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>r on Yutong (Joshua) Zhao</title>
-    <link>https://example.com/tags/r/</link>
+    <link>/tags/r/</link>
     <description>Recent content in r on Yutong (Joshua) Zhao</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 09 Mar 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://example.com/tags/r/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/r/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>STAT 385 HW2</title>
-      <link>https://example.com/blog/stat-385-hw2/</link>
+      <link>/blog/stat-385-hw2/</link>
       <pubDate>Mon, 09 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/stat-385-hw2/</guid>
+      <guid>/blog/stat-385-hw2/</guid>
       <description>Exercise 1: (a) wheel = read.csv(&amp;quot;https://nkha149.github.io/stat385-sp2020/files/data/roulette.csv&amp;quot;) wheel ## number color ## 1 0 green ## 2 1 red ## 3 2 black ## 4 3 red ## 5 4 black ## 6 5 red ## 7 6 black ## 8 7 red ## 9 8 black ## 10 9 red ## 11 10 black ## 12 11 black ## 13 12 red ## 14 13 black ## 15 14 red ## 16 15 black ## 17 16 red ## 18 17 black ## 19 18 red ## 20 19 red ## 21 20 black ## 22 21 red ## 23 22 black ## 24 23 red ## 25 24 black ## 26 25 red ## 27 26 black ## 28 27 red ## 29 28 black ## 30 29 black ## 31 30 red ## 32 31 black ## 33 32 red ## 34 33 black ## 35 34 red ## 36 35 black ## 37 36 red #install.</description>
     </item>
     

@@ -1,0 +1,20 @@
+---
+title: Resume
+author: Joshua Zhao
+date: '2020-03-09'
+slug: resume
+categories: []
+tags: []
+description: ''
+images:
+  - ''
+type: post
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+```{r label, out.width = "85%", fig.cap = "caption"}
+knitr::include_graphics("/Users/apple/Desktop/STAT 385 1/public/resume/Yutong (Joshua) Zhao.pdf")
+```
+
