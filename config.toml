@@ -60,7 +60,7 @@ disableLanguages        = [""]
   # required for proper functionality. HTML is supported within the params.
   [params.intro]
     header                = "Yutong (Joshua) Zhao"
-    paragraph             = "Resume: " #https://drive.google.com/file/d/1qiaz8pqwyi-iCDguo0AsvCHrJUtbQGCr/view?usp=sharing"
+    paragraph             = "My Resume: https://drive.google.com/file/d/1qiaz8pqwyi-iCDguo0AsvCHrJUtbQGCr/view?usp=sharing"
     rssIntro              = true
     socialIntro           = true
 
